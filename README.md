@@ -38,7 +38,7 @@ O projeto tem como objetivo oferecer uma solução prática para organização d
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Leo-aab/projeto-elise.git
+    https://github.com/Leo-aab/autoagenda.git
    ```
 2. Entre na pasta do projeto:
 
@@ -73,4 +73,5 @@ Em desenvolvimento – versão inicial para apresentação de TCC.
 * [GitHub](https://github.com/Leo-aab)
 
 ---
+
 ***obs***: A chave para a integração do chatbot é pessoal e por isso é neccessário ser declarada na constante `apiKey` para funcionar o aplicativo 100% 

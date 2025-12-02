@@ -69,10 +69,11 @@ Em desenvolvimento – versão inicial para apresentação de TCC.
 
 **Leonardo Abreu**
 
-* [LinkedIn](https://linkedin.com/in/leonardo-abreu)
+* [LinkedIn](https://linkedin.com/in/leonardo-abreuu)
 * [GitHub](https://github.com/Leo-aab)
 
 ---
 
 ***obs***: A chave para a integração do chatbot é pessoal e por isso é neccessário ser declarada na constante `apiKey` para funcionar o aplicativo 100% 
+
 
